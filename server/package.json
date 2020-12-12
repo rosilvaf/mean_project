@@ -1,0 +1,23 @@
+{
+  "name": "angular_folder",
+  "version": "1.0.0",
+  "description": "mean projec",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rosilvaf"
+  },
+  "author": "rosilvaf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.5",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
